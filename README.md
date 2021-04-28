@@ -10,5 +10,5 @@ some extra stuff I added:
 - animation css from animate.css
 - images for all teachers
 - shadow to all the cards
-- footer and opyright at bottom
+- footer and copyright at bottom
 
